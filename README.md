@@ -1,31 +1,27 @@
-<div align="center">
-<h2> Seja, bem vindo!</h2>
-</div>
-</br>
-<div align="center">
-  <div align="center">
-  <a href="https://github.com/debysouza">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=debysouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </div>
-</br>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debysouza&layout=compact&langs_count=7&theme=dark"/>
-</div>
-</div>
-</br>
- <div align="center">
-<div style="display: inline_block"><br>
-  <img align="center" alt="Formando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Formando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Formando -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Formando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- </div>
-</br>
+### Olá!
+### Eu sou a Débora Souza ✍️
 
- <div align="center">
-  <a href="Link linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debora-o-souza/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deby_souza05/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Déby#4733)
+
+![Débora Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=debsouza&show_icons=true&theme=highcontrast)
+
+## Tecnologias do meu dia a dia
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div></br>
+
+Apaixonada por artes, atividade física, educação e tecnologia, eu vivo meus dias buscando aprender a aprender e a ensinar!
+
 </br>
 <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/debysouza/count.svg" /></p>
 
