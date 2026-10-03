@@ -12,7 +12,7 @@ Software Engineer • Full Stack Developer • Data & AI • AWS
 </p>
 
 <p align="center">
-  <a href="SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/debora-o-souza/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:deboramat.ipac@gmail.com">
