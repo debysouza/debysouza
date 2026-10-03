@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Débora Souza 👋</h1>
 
 <h3 align="center">
-Software Engineer • Full Stack Developer • Data & AI • AWS
+Software Developer • Full Stack Developer • Data & AI • AWS
 </h3>
 
 <p align="center">
