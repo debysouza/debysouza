@@ -5,7 +5,7 @@ Software Developer • Full Stack Developer • Data & AI • AWS
 </h3>
 
 <p align="center">
-  Desenvolvedora de software, pesquisadora e instrutora de tecnologia.
+  Desenvolvedora de software, pesquisadora, instrutora de tecnologia, ex-atleta(Karatê - Interestilos e Canoagem), crocheteira e apaixonada por quebra-cabeças e outros artesanatos.
   Atualmente desenvolvo soluções envolvendo
   <strong>Java, Spring Boot, Python, PostgreSQL, AWS, Inteligência Artificial
   e aplicações Full Stack</strong>.
